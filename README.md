@@ -1,2 +1,5 @@
 # JBA_CoffeeMachine
- study project
+
+**JetBrainsAcademy**  
+Java Backend Developer  
+study project  
